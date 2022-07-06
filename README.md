@@ -1,3 +1,3 @@
 Hi, I’m @olinarr!
 
-I’m interested foundational issues in artificial intelligence, specifically individual and collective rationality.
+I’m interested multi-agent systems (especially computational social choice) and automated reasoning.
